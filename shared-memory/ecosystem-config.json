@@ -1,0 +1,13 @@
+{
+  "ecosystem_id": "ai_agents_1754005164532",
+  "communication_hub": "http://localhost:8080",
+  "revenue_tracking_enabled": true,
+  "autonomous_mode": true,
+  "collaboration_enabled": true,
+  "shared_memory_path": "/home/nexus/ai-agents-ecosystem/shared-memory",
+  "revenue_targets": {
+    "daily": 10000,
+    "monthly": 300000,
+    "annual": 3600000
+  }
+}
